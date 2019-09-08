@@ -1,0 +1,16 @@
+.App {
+  width: 100%;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.select_wrapper {
+  padding-top: 10px;
+  margin-bottom: 30px;
+}
+
+.chart_wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
